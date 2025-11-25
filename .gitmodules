@@ -1,0 +1,3 @@
+[submodule "ARCH"]
+	path = ARCH
+	url = https://github.com/Jongwoo/ARCH.git
