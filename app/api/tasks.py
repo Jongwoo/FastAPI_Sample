@@ -7,6 +7,6 @@
 # 아래부터 실제 구현부. LLM은 이 영역만 수정한다.
 # === IMPLEMENTATION START ===
 
-# TODO: 위 ADR을 준수하는 간단한 FastAPI 예제를 만들어줘.
+# TODO: 위 ADR을 준수하는 간단한 FastAPI 예제를 만들어줘. API List는 주석으로 남겨줘.
 # /tasks GET: 모든 Task 조회 (지금은 InMemory 저장소로 충분)
 # /tasks POST: Task 생성
